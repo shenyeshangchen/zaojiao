@@ -1,0 +1,7 @@
+{
+	"usingComponents": { 
+	}, 
+	"disableScroll": true,  
+	"backgroundTextStyle": "dark",
+	"navigationBarTitleText": "活动/预约列表"
+}
