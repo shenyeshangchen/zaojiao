@@ -5,9 +5,8 @@
 - 预约管理：开始/截止时间/人数均可灵活设置，可以自定义客户预约填写的数据项
 - 预约凭证：支持线下到场后校验签到/核销/二维码自助签到等多种方式
 - 详尽的预约数据：支持预约名单数据导出Excel，打印
-
-
- ![输入图片说明](demo/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220227185323.png)
+ 
+![image](https://user-images.githubusercontent.com/100737542/156319614-52292994-0569-4d0e-a024-5fad0b521167.png)
 
 ## 技术运用
 - 本项目使用微信小程序平台进行开发。
@@ -21,14 +20,13 @@
 ## 作者
 - 如有疑问，欢迎骚扰联系我鸭：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知
 - 俺的微信:
-
-![输入图片说明](https://gitee.com/naive2021/smartcollege/raw/master/demo/author.jpg)
+ 
 
 
 
 ## 演示
-
-  ![输入图片说明](demo/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220227185323.png)
+ 
+![image](https://user-images.githubusercontent.com/100737542/156319604-a8b86db4-e6b3-49ed-9ca7-d3e58c34e508.png)
 
 
 
@@ -40,24 +38,21 @@
 
 
 
-## 截图
-
- ![输入图片说明](demo/%E9%A6%96%E9%A1%B5.png)
-
-![输入图片说明](demo/%E6%97%A9%E6%95%99%E5%B8%B8%E8%AF%86.png)
-![输入图片说明](demo/%E8%AF%BE%E7%A8%8B%E9%A2%84%E7%BA%A6.png)
-
-![输入图片说明](demo/%E8%80%81%E5%B8%88%E9%A2%84%E7%BA%A6.png)
-
-![输入图片说明](demo/%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83.png)
-![输入图片说明](demo/%E9%A2%84%E7%BA%A6%E6%97%A5%E5%8E%86.png)
-![输入图片说明](demo/%E9%A2%84%E7%BA%A6%E6%97%B6%E6%AE%B5.png)
-![输入图片说明](demo/%E9%A2%84%E7%BA%A6%E8%AF%A6%E6%83%85.png)
+## 截图 
+![image](https://user-images.githubusercontent.com/100737542/156319635-9e8e74bc-1ab2-4c88-978b-042ad415505f.png)
+![image](https://user-images.githubusercontent.com/100737542/156319650-234ef975-4042-481d-873c-338f842d5144.png)
+![image](https://user-images.githubusercontent.com/100737542/156319660-c4d73395-31c7-48ac-a0de-67f550cbd5b8.png)
+![image](https://user-images.githubusercontent.com/100737542/156319669-4b5d83f3-5beb-472c-88de-a50c28b457fa.png)
+![image](https://user-images.githubusercontent.com/100737542/156319673-e865987f-65fd-410d-b89f-11e6f5753a47.png)
+![image](https://user-images.githubusercontent.com/100737542/156319687-51088377-a3fc-4b7a-9416-e0407e7b1794.png)
+![image](https://user-images.githubusercontent.com/100737542/156319698-4f6d87c8-e468-4ffe-84f9-d49d44b2419c.png)
+![image](https://user-images.githubusercontent.com/100737542/156319708-e461232a-bdb0-45af-9102-e6f92b420a05.png)
 
 
 
 ## 后台截图
-![输入图片说明](demo/%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6.png)
-![输入图片说明](demo/%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E8%8F%9C%E5%8D%95.png)
-![输入图片说明](demo/%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E5%90%8D%E5%8D%95.png)
+ ![image](https://user-images.githubusercontent.com/100737542/156319720-65e6b8c7-5319-4120-8e20-be81374a0b0e.png)
+![image](https://user-images.githubusercontent.com/100737542/156319735-b6da5630-937a-4762-9272-577781999489.png)
+![image](https://user-images.githubusercontent.com/100737542/156319746-d0533486-cfd2-4f91-b74c-7a0f2177a87d.png)
+![image](https://user-images.githubusercontent.com/100737542/156319755-a811b285-2036-4f02-aa2c-262a82108e7d.png)
+
